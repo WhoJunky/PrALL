@@ -1,0 +1,15 @@
+/Users/a1/Projects/pr5_doter/pr5_doter/bin/Debug/net7.0/pr5_doter
+/Users/a1/Projects/pr5_doter/pr5_doter/bin/Debug/net7.0/pr5_doter.deps.json
+/Users/a1/Projects/pr5_doter/pr5_doter/bin/Debug/net7.0/pr5_doter.runtimeconfig.json
+/Users/a1/Projects/pr5_doter/pr5_doter/bin/Debug/net7.0/pr5_doter.dll
+/Users/a1/Projects/pr5_doter/pr5_doter/bin/Debug/net7.0/pr5_doter.pdb
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.csproj.AssemblyReference.cache
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.AssemblyInfoInputs.cache
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.AssemblyInfo.cs
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.csproj.CoreCompileInputs.cache
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.dll
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/refint/pr5_doter.dll
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.pdb
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/pr5_doter.genruntimeconfig.cache
+/Users/a1/Projects/pr5_doter/pr5_doter/obj/Debug/net7.0/ref/pr5_doter.dll
