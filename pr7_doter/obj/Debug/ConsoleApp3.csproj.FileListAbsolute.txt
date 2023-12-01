@@ -1,0 +1,7 @@
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
