@@ -1,0 +1,7 @@
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\pr10_doter\bin\Debug\pr10_doter.exe.config
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\pr10_doter\bin\Debug\pr10_doter.exe
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\pr10_doter\bin\Debug\pr10_doter.pdb
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\pr10_doter\obj\Debug\pr10_doter.csproj.AssemblyReference.cache
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\pr10_doter\obj\Debug\pr10_doter.csproj.CoreCompileInputs.cache
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\pr10_doter\obj\Debug\pr10_doter.exe
+D:\РАБОТЫ ВИЖУАЛ СТУДИО\pr10_doter\obj\Debug\pr10_doter.pdb
